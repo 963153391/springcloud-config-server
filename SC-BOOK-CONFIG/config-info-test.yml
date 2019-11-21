@@ -1,13 +1,2 @@
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/963153391/springcloud-config-server.git #https://gitee.com/zhongzunfa/spring-cloud-config.git
-          #username:
-          #password:
-          search-paths: SC-BOOK-CONFIG
-  application:
-    name: sc-config-git
 server:
-    port: 9090
+    port: 9999
