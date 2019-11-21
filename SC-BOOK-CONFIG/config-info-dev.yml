@@ -1,2 +1,6 @@
 server:
     port: 7777
+cn:
+  springcloud:
+    book: 
+      config: qiqi
